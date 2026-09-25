@@ -20,5 +20,6 @@ make
 
 ## Planificación
 
-Las actividades del proyecto se organizan en un tablero Kanban público de GitHub Projects.
+Las actividades del proyecto se organizan en el tablero Kanban público
+[Práctica 2 - Biblioteca (Kanban)](https://github.com/users/Geisonm161/projects/1).
 
