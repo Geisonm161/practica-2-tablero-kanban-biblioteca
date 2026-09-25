@@ -1,0 +1,10 @@
+# Binarios y archivos generados por la compilación
+*.o
+main
+main.exe
+corrector
+corrector.exe
+
+# Configuración local de editores
+.vscode/
+.idea/
